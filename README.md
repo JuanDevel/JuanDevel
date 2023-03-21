@@ -1,5 +1,5 @@
 Hola, mi nombre es Juan Diego Cañaveral 👋
-### Full stack developer
+### Desarrollador Full Stack
 
 
 ## Tecnologías:

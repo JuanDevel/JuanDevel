@@ -13,6 +13,6 @@ Hola, mi nombre es Juan Diego Cañaveral 👋
 </br>
 [![HTML](https://img.shields.io/badge/HTML-FA7343?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-47A248?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SQL&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
